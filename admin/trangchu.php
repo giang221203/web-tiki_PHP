@@ -1,0 +1,1 @@
+<p class="imgtc"><img src="../view/images/banner1.jpg" alt=""></p>;
